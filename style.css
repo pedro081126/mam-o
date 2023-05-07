@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeção{
+
+    background-color: #383D58;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+align-items: flex-start ;
+padding: 24px;
+}
+
+.cabeça{
+    width: 10%;
+}
+
+.item{
+    display: inline-block;
+    margin:16px;
+    
+}
+
+.eimagem{
+
+width: 25%;
+
+}
+
+.Escola{
+
+background-image: linear-gradient(#383D58,#4EBFE9);
+color:aliceblue;
+display:flex;
+justify-content: center;
+align-items: center;
+padding: 50px 0;
+
+}
+
+.econteudo{
+
+width: 30%;
+
+}
+
+.etitulo{
+
+padding: 16px 0;
+
+}
+
+body{
+    font-family: 'Darumadrop One', cursive;
+}
+.soueu{
+width: 15%;
+
+}
+.div-pedro{
+text-align: center;
+
+}
+.estudas{
+   text-align: center; 
+   padding: 15px 0;
+}
+.pedro {
+    margin: 14px;
+}
+.div-todos{
+    display:grid;
+    grid-template-rows: 20% 20% 20% 20%;
+    
+}
+.matue{
+    width: 20%;
+}
+
+.roda{
+    background-color: black;
+    text-align: center;
+}
+
+.rodara{
+    height: 60px;
+    padding: 12px 0;
+
+}
